@@ -1,4 +1,5 @@
+
 langchain
-langchain-ollama
 langchain-core
+langchain-ollama
 pandas
